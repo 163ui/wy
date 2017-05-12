@@ -365,7 +365,8 @@ class ICWP_Cdnjs_Main extends Worpit_Cdnjs_Base_Plugin {
 		}
 
 		//Requires WordPress 3.5+
-		$sUrlStem = '//cdnjs.cloudflare.com/ajax/libs/';
+		$sUrlStem = '//cdn.staticfile.org/';
+        //http://cdnjs.cloudflare.com/ajax/libs/替换为中国的https://cdn.staticfile.org/
 		
 		foreach( $aAllIncludes as $sIncludeName => $aDetails ) {
 			
