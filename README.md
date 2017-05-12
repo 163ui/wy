@@ -1,7 +1,4 @@
-# wy
-==== 修改自CDNJS ====
-Contributors: 163ui
-以下文档不会写……略
+# wy 
 === Plugin Name ===
 Contributors: paultgoodchild, dlgoodchild
 Donate link: https://www.icontrolwp.com/
@@ -9,6 +6,7 @@ Tags: CDN, CDNJS, CSS, JS, CloudFlare
 Requires at least: 3.5.0
 Tested up to: 4.8
 Stable tag: 1.3.3
+
 Replace Javascript and CSS libraries on your WordPress site with CloudFlare's FREE CDN
 
 == Description ==
