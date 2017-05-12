@@ -9,5 +9,4 @@ ps：顺便练手git和source tree，brackets
 # 使用方法
 1.download zip
 2.wp后台插件上传，使用测试
-
-...
+.
